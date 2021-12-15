@@ -1,4 +1,4 @@
-# Resources
+# Memory Consumption 
 
 Estimates of memory consumption and FLOP counts for various convolutional neural networks.
 
