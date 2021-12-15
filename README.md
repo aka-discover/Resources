@@ -1,10 +1,6 @@
 # Resources
 
-convnet-burden
----
-
 Estimates of memory consumption and FLOP counts for various convolutional neural networks.
-
 
 ### Image Classification Architectures
 
